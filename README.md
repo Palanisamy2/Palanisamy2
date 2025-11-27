@@ -67,13 +67,13 @@
   <img 
     src="https://github-readme-stats.vercel.app/api?username=Palanisamy2&show_icons=true&theme=tokyonight&hide_border=true" 
     width="100%"
-    style="border-radius: 12px;"
   />
+
+  <p></p> <!-- Adds spacing -->
 
   <img 
     src="https://github-readme-streak-stats.herokuapp.com/?user=Palanisamy2&theme=tokyonight&hide_border=true" 
     width="100%"
-    style="margin-top: 10px; border-radius: 12px;"
   />
 
 </td>
