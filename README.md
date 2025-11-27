@@ -1,16 +1,71 @@
-## Hi there 👋
+<!-- Animated Header -->
+<h1 align="center">
+  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35px" />
+  Hey There, I'm <strong>Roshan</strong>
+</h1>
 
-<!--
-**Palanisamy2/Palanisamy2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- Typing Animation -->
+<p align="center">
+  <img 
+    src="https://readme-typing-svg.herokuapp.com?duration=3000&center=true&vCenter=true&width=500&lines=FRONT-END+DEVELOPER;Web/App+Devloper;Building+Interfaces+Everyday;Always+Learning+New+Tech!" 
+  />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tech Stack
+<p align="center">
+   
+  <a href="https://vite.dev/">
+    <img src="https://skillicons.dev/icons?i=vite" />
+  </a>
+   <a href="https://react.dev/">
+    <img src="https://skillicons.dev/icons?i=react" />
+  </a>
+    <a href="https://tailwindcss.com/">
+    <img src="https://skillicons.dev/icons?i=tailwind" />
+  </a>
+  <a href="https://github.com/DavRoshan">
+    <img src="https://skillicons.dev/icons?i=html" />
+  </a>
+
+  <a href="https://github.com/DavRoshan">
+    <img src="https://skillicons.dev/icons?i=javascript" />
+  </a>
+  <a href="https://redux.js.org/">
+    <img src="https://skillicons.dev/icons?i=redux" />
+  </a>
+   <a href="https://roshan231203-9955266.postman.co/me/collections">
+    <img src="https://skillicons.dev/icons?i=postman" />
+  </a>
+    <a href="https://vercel.com/roshan-proz">
+    <img src="https://skillicons.dev/icons?i=vercel" />  
+  </a>
+   <a href="https://github.com/DavRoshan">
+    <img src="https://skillicons.dev/icons?i=github" />
+  </a>
+</p>
+
+
+---
+
+## 📫 Connect With Me
+<p align="center">
+<!-- Gmail -->
+  <a href="mailto:davidroshan65@gmail.com">
+    <img src="https://img.icons8.com/fluency/48/gmail-new.png" width="45" />
+  </a>
+<!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/ʀᴏꜱʜᴀɴ-m-0b8549293">
+    <img src="https://img.icons8.com/color/48/linkedin.png" width="45" />
+  </a>
+</p>
+
+---
+
+## 🔥 Cool Animated Footer  
+<p align="center">
+  <img 
+    src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:4b0000,30:cc3300,70:ff6600,100:ffcc00&section=footer&fontSize=0" 
+  />
+</p>
