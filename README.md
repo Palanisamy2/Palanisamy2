@@ -51,28 +51,31 @@
 </div>
 
 ---
-<!-- GitHub Graph + Stats in One Row -->
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
+<table align="center">
+  <tr>
+    <!-- LEFT: Contribution Graph -->
+    <td width="55%" align="center">
+      <img 
+        src="https://github-readme-activity-graph.vercel.app/graph?username=Palanisamy2&bg_color=0d1117&color=ff7f00&line=ff7f00&point=ffffff&area=false&hide_border=true"
+        width="100%"
+      />
+    </td>
 
-  <!-- Activity Graph -->
-  <img 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Palanisamy2&bg_color=0d1117&color=ff7f00&line=ff7f00&point=ffffff&area=false&hide_border=true" 
-    width="48%" 
-  />
+    <!-- RIGHT: GitHub Stats -->
+    <td width="45%" align="center">
+      <img 
+        src="https://github-readme-stats.vercel.app/api?username=Palanisamy2&show_icons=true&theme=tokyonight&hide_border=true" 
+        width="100%"
+      />
+      <br/>
+      <img 
+        src="https://github-readme-streak-stats.herokuapp.com/?user=Palanisamy2&theme=tokyonight&hide_border=true" 
+        width="100%"
+      />
+    </td>
+  </tr>
+</table>
 
-  <!-- Stats -->
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=Palanisamy2&show_icons=true&theme=tokyonight&hide_border=true" 
-    width="48%" 
-  />
-
-  <!-- Streak -->
-  <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=Palanisamy2&theme=tokyonight&hide_border=true" 
-    width="48%" 
-  />
-
-</div>
 
 
 ## 🐍 Contributions Snake  
