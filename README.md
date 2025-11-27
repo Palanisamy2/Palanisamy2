@@ -44,10 +44,6 @@
 
 <br>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/express%20js-22272D?style=for-the-badge&logo=express&logoColor=white">
-</p>
-
 ---
 
 ## 🔥 Extra Animations
