@@ -61,7 +61,6 @@
       />
     </td>
 
-    <!-- RIGHT: GitHub Stats -->
 <td width="45%" align="center">
 
   <img 
@@ -69,18 +68,12 @@
     width="100%"
   />
 
-  <p></p> <!-- Adds spacing -->
-
-  <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=Palanisamy2&theme=tokyonight&hide_border=true" 
-    width="100%"
-  />
+  <p></p>
 
 </td>
 
   </tr>
 </table>
-
 
 
 ## 🐍 Contributions Snake  
