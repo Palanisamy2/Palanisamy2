@@ -50,31 +50,6 @@
 
 </div>
 
----
-<table align="center">
-  <tr>
-    <!-- LEFT: Contribution Graph -->
-    <td width="55%" align="center">
-      <img 
-        src="https://github-readme-activity-graph.vercel.app/graph?username=Palanisamy2&bg_color=0d1117&color=ff7f00&line=ff7f00&point=ffffff&area=false&hide_border=true"
-        width="100%"
-      />
-    </td>
-
-<td width="45%" align="center">
-
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=Palanisamy2&show_icons=true&theme=tokyonight&hide_border=true" 
-    width="100%"
-  />
-
-  <p></p>
-
-</td>
-
-  </tr>
-</table>
-
 
 ## 🐍 Contributions Snake  
 <p align="center">
