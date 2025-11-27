@@ -49,7 +49,11 @@
 </p>
 
 </div>
+<h2 align="center">GitHub Stats</h2>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=madhavasrinivasan&layout=compact&theme=nightowl&hide_border=true" alt="Top Languages" />
+</p>
 
 ## 🐍 Contributions Snake  
 <p align="center">
