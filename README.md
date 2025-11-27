@@ -70,15 +70,15 @@
 
 ## 📊 Github Activity Graph
 <p align="center">
- <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=react-dark&bg_color=000000&color=ff6a00&line=ff6a00&point=ffffff">
+ <img src="https://github-readme-activity-graph.vercel.app/graph?username=Palanisamy2&theme=react-dark&bg_color=000000&color=ff6a00&line=ff6a00&point=ffffff">
 </p>
 
 ---
 
 ## 📈 GitHub Stats  
 <p align="center">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
-    <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" />
+    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Palanisamy2&show_icons=true&theme=tokyonight&hide_border=true" />
+    <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Palanisamy2&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
