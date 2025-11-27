@@ -7,53 +7,63 @@
 <!-- Typing Animation -->
 <p align="center">
   <img 
-    src="https://readme-typing-svg.herokuapp.com?duration=3000&center=true&vCenter=true&width=500&lines=FULL+STACK+DEVELOPER;ReactJS+%7C+Node.js+%7C+PostgreSQL;Building+Modern+Web+Experiences" 
+    src="https://readme-typing-svg.herokuapp.com?duration=3000&center=true&vCenter=true&width=600&lines=FULL+STACK+DEVELOPER;ReactJS+%7C+Node.js+%7C+PostgreSQL;Building+Modern+Web+Experiences" 
   />
 </p>
 
 ---
-<h2 align="center">🚀 Technology Stack</h2>
 
+<!-- Profile Animation -->
 <p align="center">
-<img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3"/>
-<img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript"/>
-<img src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript"/>
-<img src="https://img.shields.io/badge/-React-black?style=flat-square&logo=react"/>
-<img src="https://img.shields.io/badge/-Nodejs-339933?style=flat-square&logo=Node.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/-Express.js-black?style=flat-square&logo=express"/>
-<img src="https://img.shields.io/badge/-TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
-<img src="https://img.shields.io/badge/-Vite-563D7C?style=flat-square&logo=vite"/>
-<img src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql"/>
-<img src="https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql"/>
-<img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git"/>
-<img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github"/>
-<img src="https://img.shields.io/badge/-AWS-black?style=flat-square&logo=amazonaws"/>
-<img src="https://img.shields.io/badge/-Postman-orange?style=flat-square&logo=postman"/>
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGJxbXNuMmxqM25pdTNvczZvMmE5NmFjMmY2aTVlYmlkb3drYWxkNyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
 </p>
-
-<br>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/visual%20studio%20code-22272D?style=for-the-badge&logo=visual-studio-code&logoColor=42A2E9">
-  <img src="https://img.shields.io/badge/npm-22272D?style=for-the-badge&logo=npm">
-  <img src="https://img.shields.io/badge/docker-22272D?style=for-the-badge&logo=docker">
-  <img src="https://img.shields.io/badge/PM2-22272D?style=for-the-badge&logo=pm2">
-  <img src="https://img.shields.io/badge/postman-22272D?style=for-the-badge&logo=postman">
-</p>
-
-<br>
 
 ---
 
-## 🔥 Extra Animations
+<h2 align="center">🚀 Technology Stack</h2>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/DenverCoder1/minimalistic-typing-svg/main/typing-svg.svg?text=Full+Stack+Developer+%7C+React+%7C+Node.js+%7C+PostgreSQL&color=ff6a00&lines=Building+cool+stuff...;Writing+clean+code...;Always+learning+new+tech...">
+<!-- Grouped & Centered Tech Stack -->
+<div align="center">
+
+### 🎨 Frontend  
+<p>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript"/>
+<img src="https://img.shields.io/badge/React-000?style=for-the-badge&logo=react"/>
+<img src="https://img.shields.io/badge/TailwindCSS-0ea5e9?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+<img src="https://img.shields.io/badge/Vite-563D7C?style=for-the-badge&logo=vite"/>
 </p>
 
+### ⚙️ Backend  
+<p>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/Express.js-000?style=for-the-badge&logo=express"/>
+</p>
+
+### 🗄 Databases  
+<p>
+<img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql"/>
+<img src="https://img.shields.io/badge/MySQL-000?style=for-the-badge&logo=mysql"/>
+</p>
+
+### ☁️ Cloud & Tools  
+<p>
+<img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws"/>
+<img src="https://img.shields.io/badge/Postman-F76935?style=for-the-badge&logo=postman"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git"/>
+<img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/VS%20Code-1f92e8?style=for-the-badge&logo=visual-studio-code"/>
+</p>
+
+</div>
+
+---
+
+## ⚡ Smooth Animated Tagline  
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
+  <img src="https://raw.githubusercontent.com/DenverCoder1/minimalistic-typing-svg/main/typing-svg.svg?text=Building+cool+stuff...;Writing+clean+code...;Always+learning+new+tech...&color=ff6a00">
 </p>
 
 ---
@@ -76,4 +86,11 @@
 ## 🐍 Watch My Contributions Get Eaten by a Snake  
 <p align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg">
+</p>
+
+---
+
+## 🌟 Footer Animation  
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:ff6a00,50:ff9500,100:ffc300&section=footer"/>
 </p>
