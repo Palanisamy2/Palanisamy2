@@ -7,7 +7,7 @@
 <!-- Typing Animation -->
 <p align="center">
   <img 
-    src="https://readme-typing-svg.herokuapp.com?duration=3000&center=true&vCenter=true&width=600&lines=FULL+STACK+DEVELOPER;ReactJS+%7C+Node.js+%7C+PostgreSQL;Building+Modern+Web+Experiences" 
+    src="https://readme-typing-svg.herokuapp.com?duration=2500&center=true&vCenter=true&width=600&lines=FULL+STACK+DEVELOPER;ReactJS+%7C+Node.js+%7C+PostgreSQL;Building+Modern+Web+Experiences;Clean+Code+Enthusiast" 
   />
 </p>
 
@@ -15,7 +15,7 @@
 
 <!-- Profile Animation -->
 <p align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGJxbXNuMmxqM25pdTNvczZvMmE5NmFjMmY2aTVlYmlkb3drYWxkNyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
+  <img src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280"/>
 </p>
 
 ---
@@ -44,7 +44,7 @@
 
 ### 🗄 Databases  
 <p>
-<img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql"/>
+<img src="https://img.shields.io/badge/PostgreSQL-31648C?style=for-the-badge&logo=postgresql"/>
 <img src="https://img.shields.io/badge/MySQL-000?style=for-the-badge&logo=mysql"/>
 </p>
 
@@ -63,14 +63,19 @@
 
 ## ⚡ Smooth Animated Tagline  
 <p align="center">
-  <img src="https://raw.githubusercontent.com/DenverCoder1/minimalistic-typing-svg/main/typing-svg.svg?text=Building+cool+stuff...;Writing+clean+code...;Always+learning+new+tech...&color=ff6a00">
+  <img 
+    src="https://readme-typing-svg.herokuapp.com?color=FF7A00&size=25&center=true&vCenter=true&width=600&lines=Building+cool+stuff...;Writing+clean+code...;Always+learning+new+tech..." 
+  />
 </p>
 
 ---
 
-## 📊 Github Activity Graph
+## 📊 GitHub Activity Graph  
 <p align="center">
- <img src="https://github-readme-activity-graph.vercel.app/graph?username=Palanisamy2&theme=react-dark&bg_color=000000&color=ff6a00&line=ff6a00&point=ffffff">
+ <img 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Palanisamy2&bg_color=0d1117&color=ff7f00&line=ff7f00&point=ffffff&area=false&hide_border=true" 
+    width="95%"
+ />
 </p>
 
 ---
@@ -83,14 +88,7 @@
 
 ---
 
-## 🐍 Watch My Contributions Get Eaten by a Snake  
+## 🐍 Contributions Snake  
 <p align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg">
-</p>
-
----
-
-## 🌟 Footer Animation  
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:ff6a00,50:ff9500,100:ffc300&section=footer"/>
 </p>
