@@ -62,17 +62,22 @@
     </td>
 
     <!-- RIGHT: GitHub Stats -->
-    <td width="45%" align="center">
-      <img 
-        src="https://github-readme-stats.vercel.app/api?username=Palanisamy2&show_icons=true&theme=tokyonight&hide_border=true" 
-        width="100%"
-      />
-      <br/>
-      <img 
-        src="https://github-readme-streak-stats.herokuapp.com/?user=Palanisamy2&theme=tokyonight&hide_border=true" 
-        width="100%"
-      />
-    </td>
+<td width="45%" align="center">
+
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=Palanisamy2&show_icons=true&theme=tokyonight&hide_border=true" 
+    width="100%"
+    style="border-radius: 12px;"
+  />
+
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=Palanisamy2&theme=tokyonight&hide_border=true" 
+    width="100%"
+    style="margin-top: 10px; border-radius: 12px;"
+  />
+
+</td>
+
   </tr>
 </table>
 
