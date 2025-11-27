@@ -40,15 +40,12 @@
   <img src="https://img.shields.io/badge/docker-22272D?style=for-the-badge&logo=docker">
   <img src="https://img.shields.io/badge/PM2-22272D?style=for-the-badge&logo=pm2">
   <img src="https://img.shields.io/badge/postman-22272D?style=for-the-badge&logo=postman">
-  <img src="https://img.shields.io/badge/cloudflare-22272D?style=for-the-badge&logo=cloudflare">
 </p>
 
 <br>
 
 <p align="center">
   <img src="https://img.shields.io/badge/express%20js-22272D?style=for-the-badge&logo=express&logoColor=white">
-  <img src="https://img.shields.io/badge/linux-22272D?style=for-the-badge&logo=linux">
-  <img src="https://img.shields.io/badge/macos-22272D?style=for-the-badge&logo=apple">
 </p>
 
 ---
