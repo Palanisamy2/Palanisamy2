@@ -13,13 +13,6 @@
 
 ---
 
-<!-- Profile Animation -->
-<p align="center">
-  <img src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280"/>
-</p>
-
----
-
 <h2 align="center">🚀 Technology Stack</h2>
 
 <!-- Grouped & Centered Tech Stack -->
@@ -58,15 +51,6 @@
 </p>
 
 </div>
-
----
-
-## ⚡ Smooth Animated Tagline  
-<p align="center">
-  <img 
-    src="https://readme-typing-svg.herokuapp.com?color=FF7A00&size=25&center=true&vCenter=true&width=600&lines=Building+cool+stuff...;Writing+clean+code...;Always+learning+new+tech..." 
-  />
-</p>
 
 ---
 
